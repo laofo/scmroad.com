@@ -1,6 +1,10 @@
- 这个 repo 专门用来收集scmroad.com 网站的所有问题。
+ 这个 repo 专门用来收集scmroad.com 网站的所有问题。吐槽、灌水都可以，请在上方开 issue.
 
- 吐槽、灌水都可以，请在上方开 issue.
+ 本站改版，问题还有很多。请大家开 issue 前：
+ - 清理浏览器缓存
+ - ping scmroad.com 应该是 59 开头的 ip 地址
+ - 直接访问 http://scmroad.com 前后都不要加前缀，后缀。如果浏览器自动补全，那是缓存没清理干净，请再次清理
+ - http://scmroad.com/forum.php 的地址是不正确的，因为本站现在是 ror 的，不会有 php 页面，如果是这个地址证明缓存还是没清理干净。
 
  谢谢大家
 
